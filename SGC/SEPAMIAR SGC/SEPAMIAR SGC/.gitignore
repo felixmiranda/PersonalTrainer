@@ -1,0 +1,5 @@
+#Visual Studio files
+Web.config
+/bin/Debug/
+/bin/Release/
+/.vs/SEPAMIAR SGC/v14/.suo
